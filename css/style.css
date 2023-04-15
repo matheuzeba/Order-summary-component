@@ -1,0 +1,22 @@
+body {
+    background: var(--pale-blue);
+    background-image: url(../images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+}
+
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0 0.5rem;
+}
+
+.page .container {
+    max-width: 45rem;
+}
+
+
+.page .container .middle .change img {
+    max-width: 4.8rem;
+}

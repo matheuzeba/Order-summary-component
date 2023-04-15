@@ -1,0 +1,13 @@
+:root {
+    /* Primary */
+    
+    
+    --pale-blue: hsl(225, 100%, 94%); /*background */
+    --bright-blue: hsl(245, 75%, 52%);
+
+    /* Neutral */
+
+    --very-pale-blue: hsl(225, 100%, 98%);
+    --Desaturated-blue: hsl(224, 23%, 55%);
+    --Dark-blue: hsl(223, 47%, 23%);
+}
