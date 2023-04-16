@@ -9,5 +9,6 @@
 
     --very-pale-blue: hsl(225, 100%, 98%); /*Container*/
     --Desaturated-blue: hsl(224, 23%, 55%); /*p*/
+    --Desaturated-blue-transparent: hsla(224, 23%, 55%, 0.043); /*.middle .change background*/
     --Dark-blue: hsl(223, 47%, 23%);    /*h1,h2*/
 }

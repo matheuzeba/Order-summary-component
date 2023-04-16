@@ -1,7 +1,20 @@
+.page .container {
+    background: var(--very-pale-blue);
+}
+
 .page .container .middle .text h1 {
     color: var(--Dark-blue);
 }
 
 .page .container .middle .text p {
     color: var(--Desaturated-blue);
+}
+
+.page .container .middle .change {
+    background: var(--Desaturated-blue-transparent);
+}
+
+.page .container .middle .change a {
+    color: var(--bright-blue);
+    font-weight: 700;
 }
