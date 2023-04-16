@@ -2,11 +2,13 @@
     background: var(--very-pale-blue);
 }
 
-.page .container .middle .text h1 {
+.page .container .middle .text h1,
+.page .container .middle .change .change-text h2 {
     color: var(--Dark-blue);
 }
 
-.page .container .middle .text p {
+.page .container .middle .text p,
+.page .container .middle .change .change-text p {
     color: var(--Desaturated-blue);
 }
 

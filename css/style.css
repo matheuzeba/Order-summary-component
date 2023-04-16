@@ -77,3 +77,8 @@ body {
 .page .container .middle .change .change-text {
     margin-right: auto;
 }
+
+.page .container .middle .change .change-text h2 {
+    font-size: 1.7rem;
+    margin-bottom: 0.5rem;
+}
