@@ -21,8 +21,22 @@
     color: var(--bright-blue);
 }
 
+.page .container .middle .change a:hover {
+    color: #20159c;
+}
+
 
 .page .container .bottom .btn-proceed {
     background: var(--bright-blue);
     color: var(--very-pale-blue);
+}
+
+.page .container .bottom .btn-proceed a:hover {
+    color:  hsl(230, 5%, 75%);
+    cursor: pointer;
+}
+
+.page .container .bottom .btn-cancel a:hover {
+    color: var(--bright-blue);
+    cursor: pointer;
 }
