@@ -8,7 +8,8 @@
 }
 
 .page .container .middle .text p,
-.page .container .middle .change .change-text p {
+.page .container .middle .change .change-text p,
+.page .container .bottom .btn-cancel {
     color: var(--Desaturated-blue);
 }
 
@@ -18,5 +19,10 @@
 
 .page .container .middle .change a {
     color: var(--bright-blue);
-    font-weight: 700;
+}
+
+
+.page .container .bottom .btn-proceed {
+    background: var(--bright-blue);
+    color: var(--very-pale-blue);
 }
