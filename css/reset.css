@@ -7,6 +7,10 @@
     font-family: 'Red Hat Display', sans-serif;
 }
 
+button {
+    background: transparent;
+}
+
 img {
     display: block;
     width: 100%;
